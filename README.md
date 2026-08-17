@@ -28,4 +28,7 @@ Model Performance Analysis: Evaluates the efficacy of different models based on 
 
 Comments on Model Performance: Provides a critical assessment of the models, including insights and potential improvements.
 
-The repository includes all necessary code and documentation for replicating the analysis. This project not only demonstrates my proficiency in using Spark for advanced machine learning tasks but also my ability to derive actionable insights from complex datasets.
+This is an earlier learning project. The notebook and documentation are public, but the source
+dataset is not included in this repository, so the analysis is not fully reproducible as checked in.
+To run it with a compatible copy of the public lending dataset, place the CSV at
+`data/loan_data.csv` and review the notebook's environment requirements.
